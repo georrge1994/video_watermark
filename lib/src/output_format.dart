@@ -7,4 +7,5 @@
 /// .flv,
 /// .avi,
 /// .wmv,
-enum OutputFormat { mp4, mkv, mov, flv, avi, wmv }
+/// .gif,
+enum OutputFormat { mp4, mkv, mov, flv, avi, wmv, gif }
